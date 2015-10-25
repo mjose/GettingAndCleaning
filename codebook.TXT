@@ -1,0 +1,7 @@
+These are the new fields created during the script execution
+*************************************************************
+phase - distintive value that indicates if the values come form training or test source       
+subject - subject code     
+activityName - descritive name for the activity (values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)  
+variable - descriptive name for the variable   
+mean - calculated value from the combination: phase,subject,activityName and variable                      
